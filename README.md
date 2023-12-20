@@ -7,5 +7,3 @@ It is a master-slave communication in which you can connect and control multiple
 
 I2C protocol uses only two cables for the communication in which one cable is used for the data (SDA), and another cable is used for clock (SCL). Both cables are required to pull up with a resistor for + Vdd. It can be used to link two I2C buses with different voltages.
 
-
-System Verilog code reference : System Verilog Verification Projects Part 2: Udemy
